@@ -1,5 +1,5 @@
 # SilverCrest-STSK-AutoUnpair
-a powershell script with windows scheduler to unpair the bluetooth connection when power is lost
+A powershell script with windows scheduler to unpair the bluetooth connection when power is lost
 
 
 The silver crest bluetooth headphones using the STSK A1 model does not reconnect if power is lost and then regained, this requires windows users to go into bluetooth settins and unpair the device, just to pair it again.
